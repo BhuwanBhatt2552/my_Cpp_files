@@ -1,4 +1,4 @@
-# C++ Programming and Concepts
+# _C++ Programming and Concepts_
 
 This Git repository stores _**C++**_ concepts ( _**basic to the advanced level** ) and **exercise code**_  
 
