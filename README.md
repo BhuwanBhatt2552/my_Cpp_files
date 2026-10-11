@@ -1,6 +1,6 @@
 # C++ Programming and Concepts
 
-This Git repository stores C++ basics to the advanced level concepts and exercise code  
+This Git repository stores _**C++**_ concepts ( _**basic to the advanced level** ) and **exercise code**_  
 
 ## Topics covered :-
    - Baiscs : Variable, Data types, Control Statements, Loops
