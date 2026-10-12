@@ -14,6 +14,7 @@ int main()
     cout<<"Now reading data back into the memory.\n";
     file.read((char*)buffer, sizeof(buffer));
     for(int count =0; count<5;count++)
+    
     cout<<buffer[count]<<" ";
     file.close();
 
