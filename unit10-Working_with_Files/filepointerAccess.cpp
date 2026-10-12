@@ -26,7 +26,7 @@ cout<<"\nAfter writing position is "<<file.tellg()<<endl;
 char ch;
 while(!file.eof())
 {
-    cout<<"Position - "<<file.tellg();
+    cout<<"\nPosition - "<<file.tellg();
     file>>ch;
     cout<<" Character - "<<ch<<endl;
 }
