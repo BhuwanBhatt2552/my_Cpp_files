@@ -2,7 +2,7 @@
     "editor.fontWeight": "normal",
     "editor.fontLigatures": true,
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
-    "editor.fontSize": 14,
+    "editor.fontSize": 15,
     "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.fontSize": 15,
     "python-envs.pythonProjects": [
