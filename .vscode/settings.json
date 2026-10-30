@@ -1,9 +1,9 @@
 {
     "editor.fontWeight": "normal",
     "editor.fontLigatures": true,
-    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "Cascadia Mono",
     "editor.fontSize": 15,
-    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontFamily": "Cascadia Mono",
     "terminal.integrated.fontSize": 15,
     "python-envs.pythonProjects": [
         {
