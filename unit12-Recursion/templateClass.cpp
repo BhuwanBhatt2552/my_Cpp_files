@@ -11,7 +11,7 @@ class sum{
     }
     void disp(){
         cout<<"Numbers are: "<<num1<<" and "<<num2<<endl;
-        cout<<"Sum is : "<<add()<<endl;
+        cout<<"Sum is : "<<add()<<"\n"<<endl;
     }
     T add(){
         return num1 + num2;
